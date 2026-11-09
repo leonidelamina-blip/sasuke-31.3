@@ -1,0 +1,82 @@
+{
+  "nome": "SASUKE V31.3 — SHADOW GOD",
+  "versao": "31.3",
+  "arquitectura": "CORE 77",
+  "prefixo": ".",
+  "fusoHorario": "Africa/Maputo",
+  "dono": {
+    "nome": "Leo",
+    "numero": "852223969",
+    "internacional": "258852223969",
+    "lids": []
+  },
+  "bot": {
+    "numero": "872698781",
+    "internacional": "258872698781"
+  },
+  "sessaoPrincipal": "principal",
+  "authDir": "auth",
+  "databaseDir": "database",
+  "database": {
+    "debounceMs": 500,
+    "backupIntervaloMin": 60,
+    "backupsManter": 10
+  },
+  "scheduler": {
+    "intervals": {
+      "text": 800,
+      "react": 250,
+      "image": 1500,
+      "video": 2500,
+      "admin": 1200,
+      "long": 1800,
+      "default": 800
+    },
+    "maxConcurrent": 3,
+    "globalGapMs": 300,
+    "maxRetries": 3,
+    "retryBaseMs": 1500,
+    "dedupeWindowMs": 3000,
+    "typing": true,
+    "typingMaxMs": 2000,
+    "maxQueuePerChat": 50,
+    "readyTimeoutMs": 30000
+  },
+  "limites": {
+    "comandosPorJanela": 6,
+    "janelaMs": 10000
+  },
+  "aluguer": {
+    "verificacaoIntervaloSeg": 60,
+    "avisoSemAluguelCooldownSeg": 60
+  },
+  "reacoes": {
+    "sucesso": "✅",
+    "falha": "❌",
+    "padrao": "⚡"
+  },
+  "canal": {
+    "nome": "Canal Oficial",
+    "link": "https://whatsapp.com/channel/0029VbBfoWhAO7RJaD9mXy2k"
+  },
+  "amv": {
+    "urls": []
+  },
+  "sessoes": {
+    "max": 5
+  },
+  "protecoes": {
+    "flood": {
+      "maxMsgs": 6,
+      "janelaSeg": 8
+    }
+  },
+  "app": {
+    "nome": "SASUKE SHADOW GOD",
+    "link": ""
+  },
+  "diversao": {
+    "cadeiaMs": 60000
+  },
+  "soGruposAutorizados": false
+}

@@ -1,0 +1,25 @@
+{
+  "name": "sasuke-v31-3",
+  "version": "31.3.0",
+  "description": "SASUKE V31.3 — SHADOW GOD (CORE 77) · Bot WhatsApp modular com aluguer multigrupo",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "node scripts/selftest.js",
+    "auditoria": "node scripts/auditoria.js",
+    "verificar": "node scripts/verificar.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.0.0",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.33.5"
+  }
+}
