@@ -1,0 +1,316 @@
+╔═══ 🩸 𝑺𝑯𝑨𝑫𝑶𝑾 𝑮𝑶𝑫 🩸 ═══╗
+👁️ 𝑴𝑨𝑵𝑮𝑬𝑲𝒀𝑶 𝑺𝑯𝑨𝑹𝑰𝑵𝑮𝑨𝑵
+⚫ 𝑺𝑨𝑺𝑼𝑲𝑬 𝑼𝑪𝑯𝑰𝑯𝑨
+🩸 "𝑽𝒐𝒄𝒆𝒔 𝒔𝒂𝒐 𝒇𝒓𝒂𝒄𝒐𝒔... 𝒎𝒆 𝒅𝒂𝒐 𝒏𝒐𝒋𝒐."
+╚════════════════════════╝
+
+𝑺𝑨𝑺𝑼𝑲𝑬 V31.3 · CORE 77 · Prefixo: .
+📜 Comandos: 280+
+👑 Criador: Leo
+📢 Canal: https://whatsapp.com/channel/0029VbBfoWhAO7RJaD9mXy2k
+📖 Abrir menu: .menu
+
+💼 Compras e megas no topo
+✨ Escolhe um comando abaixo
+
+🙋 COMANDOS DE MEMBROS
+
+┌──〔 🛒 COMPRAS & MEGAS 〕
+│ 🛒 .compra
+│ 🛒 .comprovativo
+│ 🛒 .megas
+│ 🛒 .verificarsms
+└──────────────────
+
+┌──〔 💬 AJUDA & INFORMAÇÕES 〕
+│ 💬 .menu
+│ 💬 .ola
+│ 💬 .info
+│ 💬 .adm
+│ 💬 .ajuda
+│ 💬 .criador
+│ 💬 .dono
+└──────────────────
+
+┌──〔 🔎 PESQUISA & FERRAMENTAS 〕
+│ 🔎 .cep
+│ 🔎 .chave
+│ 🔎 .extrair
+│ 🔎 .g-search
+│ 🔎 .gera-link
+│ 🔎 .gerar-link
+│ 🔎 .get-lid
+│ 🔎 .google-search
+│ 🔎 .info-msg
+│ 🔎 .link
+│ 🔎 .metadados
+│ 🔎 .obter-metadados-mensagem
+│ 🔎 .raw
+│ 🔎 .raw-message
+│ 🔎 .to-link
+│ 🔎 .verificar
+└──────────────────
+
+┌──〔 📤 ENVIO & EXEMPLOS 〕
+│ 📤 .enviar-gif-de-buffer
+│ 📤 .enviar-gif-de-url
+│ 📤 .enviar-imagem-de-arquivo
+│ 📤 .enviar-imagem-de-buffer
+│ 📤 .enviar-imagem-de-url
+│ 📤 .enviar-lista
+│ 📤 .enviar-reacoes
+│ 📤 .enviar-resposta
+│ 📤 .enviar-texto
+│ 📤 .enviar-video-de-arquivo
+│ 📤 .enviar-video-de-buffer
+│ 📤 .enviar-video-de-url
+│ 📤 .exemplo-de-mensagem
+│ 📤 .exemplo-de-mensagens
+│ 📤 .exemplo-poll
+│ 📤 .exemplos
+│ 📤 .exemplos-de-mensagens
+│ 📤 .funcoes-grupo
+│ 📤 .imenu
+│ 📤 .obter-dados-grupo
+│ 📤 .poll-example
+└──────────────────
+
+┌──〔 📌 OUTROS • MEMBROS 〕
+│ 📌 .ad
+│ 📌 .antifoto
+│ 📌 .antispam
+│ 📌 .app
+│ 📌 .ban-senha
+│ 📌 .bolsonaro
+│ 📌 .buttons
+│ 📌 .cadeia
+│ 📌 .calcula
+│ 📌 .embaça
+│ 📌 .embaçar
+│ 📌 .f
+│ 📌 .f-quote
+│ 📌 .fk
+│ 📌 .fq
+│ 📌 .getlid
+│ 📌 .lid
+│ 📌 .linkgrupo
+│ 📌 .list
+│ 📌 .m-pesa
+│ 📌 .menubot
+│ 📌 .meu-lid
+│ 📌 .mirror
+│ 📌 .mpesa
+│ 📌 .pagamento
+│ 📌 .payment
+│ 📌 .pb
+│ 📌 .px
+│ 📌 .rec
+│ 📌 .rn
+│ 📌 .s
+│ 📌 .tempo
+│ 📌 .ti
+│ 📌 .up
+│ 📌 .upload
+│ 📌 .uptime
+└──────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━
+🔐 ÁREA DE ADMINISTRAÇÃO
+
+┌──〔 💰 VENDAS & FINANCEIRO 〕
+│ 💰 .alugar
+│ 💰 .bot
+│ 💰 .depositar
+│ 💰 .faltacompra
+│ 💰 .picos
+│ 💰 .restanas
+│ 💰 .semcompra
+│ 💰 .setmegas
+│ 💰 .telefones
+│ 💰 .venda-automatica
+│ 💰 .venda-automativa
+└──────────────────
+
+┌──〔 👥 GESTÃO DE GRUPOS 〕
+│ 👥 .abre
+│ 👥 .abre-grupo
+│ 👥 .abrir
+│ 👥 .abrir-grupo
+│ 👥 .addgp
+│ 👥 .auto-fechar
+│ 👥 .clear
+│ 👥 .clear-chat
+│ 👥 .close
+│ 👥 .close-group
+│ 👥 .delete
+│ 👥 .fecha
+│ 👥 .fechar
+│ 👥 .fechar-grupo
+│ 👥 .grupo
+│ 👥 .grupo-f
+│ 👥 .hide-tag
+│ 👥 .kick
+│ 👥 .limpar
+│ 👥 .mudar-nome-grupo
+│ 👥 .nome-grupo
+│ 👥 .open
+│ 👥 .open-group
+│ 👥 .promove
+│ 👥 .promover
+│ 👥 .rebaixa
+│ 👥 .rebaixar
+│ 👥 .reveal
+│ 👥 .revelar
+│ 👥 .set-group-name
+│ 👥 .set-name
+│ 👥 .to-tag
+└──────────────────
+
+┌──〔 🛡️ SEGURANÇA & MODERAÇÃO 〕
+│ 🛡️ .anti-link
+│ 🛡️ .anticoncorrencia
+│ 🛡️ .antiestrangeiros-off
+│ 🛡️ .antiestrangeiros-on
+│ 🛡️ .ban
+│ 🛡️ .desmutar
+│ 🛡️ .mutar
+│ 🛡️ .mute
+│ 🛡️ .only-adm
+│ 🛡️ .only-admin
+│ 🛡️ .periodo-remocao
+│ 🛡️ .remover5
+│ 🛡️ .rfantasmas5
+│ 🛡️ .so-admin
+│ 🛡️ .status-remocao
+│ 🛡️ .tirar5
+└──────────────────
+
+┌──〔 ⏰ AUTOMAÇÕES 〕
+│ ⏰ .agendar
+│ ⏰ .agendar-mensagem
+│ ⏰ .alarme
+│ ⏰ .auto-comprovativo
+│ ⏰ .auto-remover
+│ ⏰ .auto-responder
+│ ⏰ .autoclose
+│ ⏰ .autocomprovativo
+│ ⏰ .bemvindo
+│ ⏰ .boas
+│ ⏰ .calendario
+│ ⏰ .exit
+│ ⏰ .nanoadd
+│ ⏰ .nanocomandos
+│ ⏰ .nanodel
+│ ⏰ .saida
+│ ⏰ .setalarme
+│ ⏰ .welcome
+│ ⏰ .welkom
+│ ⏰ .welkon
+└──────────────────
+
+┌──〔 ⚙️ OUTROS • ADMINISTRAÇÃO 〕
+│ ⚙️ .abri
+│ ⚙️ .adalarme
+│ ⚙️ .add
+│ ⚙️ .add-adm
+│ ⚙️ .addalarme
+│ ⚙️ .addsaldo
+│ ⚙️ .addtelefone
+│ ⚙️ .adicionar
+│ ⚙️ .al
+│ ⚙️ .anularcompra
+│ ⚙️ .ativarcompras
+│ ⚙️ .boasvinda
+│ ⚙️ .boasvindas
+│ ⚙️ .boavinda
+│ ⚙️ .boavindas
+│ ⚙️ .cale
+│ ⚙️ .checkrecibo
+│ ⚙️ .compras
+│ ⚙️ .comunicar
+│ ⚙️ .configurartoken
+│ ⚙️ .d
+│ ⚙️ .debugrecibo
+│ ⚙️ .del
+│ ⚙️ .deltelefone
+│ ⚙️ .demote
+│ ⚙️ .f-auto
+│ ⚙️ .infogrupo
+│ ⚙️ .limgroup
+│ ⚙️ .limpa
+│ ⚙️ .limparcompras
+│ ⚙️ .limpargrupo
+│ ⚙️ .limparrestanas
+│ ⚙️ .listanano
+│ ⚙️ .listtelefones
+│ ⚙️ .migrartoken
+│ ⚙️ .migrartokens
+│ ⚙️ .only-administrator
+│ ⚙️ .only-administrators
+│ ⚙️ .only-admins
+│ ⚙️ .p
+│ ⚙️ .pagamentos
+│ ⚙️ .periodoremocao
+│ ⚙️ .picospv
+│ ⚙️ .promote
+│ ⚙️ .relatório
+│ ⚙️ .rm
+│ ⚙️ .rv
+│ ⚙️ .settoken
+│ ⚙️ .sms
+│ ⚙️ .so-adm
+│ ⚙️ .so-administrador
+│ ⚙️ .so-administradores
+│ ⚙️ .so-admins
+│ ⚙️ .statusremocao
+│ ⚙️ .token
+│ ⚙️ .unmute
+│ ⚙️ .vendaautomatica
+│ ⚙️ .vendaautomativa
+│ ⚙️ .verificarrecibo
+└──────────────────
+
+━━━━━━━━━━━━━━━━━━━━━━
+🩸 𝑺𝑨𝑺𝑼𝑲𝑬 𝑽31.3 — 𝑪𝑶𝑹𝑬 77
+
+👥 𝑨. 𝑴𝑬𝑴𝑩𝑹𝑶𝑺 — 12
+.ban  .kick  .add  .promover  .rebaixar  .mute  .unmute  .banlist  .unban  .admins  .membros  .online
+
+🏠 𝑩. 𝑨𝑫𝑴𝑰𝑵𝑰𝑺𝑻𝑹𝑨ÇÃ𝑶 𝑫𝑬 𝑮𝑹𝑼𝑷𝑶𝑺 — 9
+.abrir  .fechar  .abrirhorario  .fecharhorario  .nome  .desc  .link  .novolink  .infogp
+
+💬 𝑪. 𝑴𝑬𝑵𝑺𝑨𝑮𝑬𝑵𝑺 — 11
+.boasvindas  .nanobemvindo  .saidas  .nanosaida  .autoresposta  .hidetag  .marcar  .delete  .limpar  .dectetor  .revelar
+
+🤖 𝑫. 𝑺𝑰𝑺𝑻𝑬𝑴𝑨 𝑵𝑨𝑵𝑶 — 5
+.nano  .nanoadd  .nanolist  .nanodel  .limparnano
+
+🛡️ 𝑬. 𝑷𝑹𝑶𝑻𝑬𝑪ÇÕ𝑬𝑺 — 15
+.antilink  .antilinkhard  .anticanal  .antifoto  .antivideo  .antiaudio  .antisticker  .antidoc  .antiviewonce  .antifake  .antiflood  .antipalavrao  .antidelete  .automover  .maxavisos
+
+💳 𝑭. 𝑷𝑨𝑮𝑨𝑴𝑬𝑵𝑻𝑶𝑺 𝑬 𝑪𝑶𝑴𝑷𝑹𝑨𝑺 — 11
+.compra  .tabela  .contas  .carteira  .pagamento  .megas  .loja  .saldo  .addmpesa  .addemola  .antiburlador
+
+🔓 𝑮. 𝑷𝑬𝑹𝑴𝑰𝑺𝑺Õ𝑬𝑺 𝑺𝑨𝑺𝑼𝑲𝑬 — 6
+.liberartodos  .liberar  .clientes  .modolivre  .bloqueartodos  .permissoes
+
+👑 𝑯. 𝑷𝑹𝑶𝑷𝑹𝑰𝑬𝑻Á𝑹𝑰𝑶 — 8
+.alugar  .tirardias  .anular  .alugueis  .conectar  .qrcode  .sessoes  .bangp
+
+🎌 𝑰. 𝑨𝑵𝑰𝑴𝑬 — 14
+.sasuke  .naruto  .itachi  .waifu  .anime  .wallpaper  .quote  .amv  .otaku  .madara  .kakashi  .sakura  .hinata  .obito
+
+⚙️ 𝑱. 𝑮𝑬𝑹𝑨𝑳 — 19
+.menu  .dono  .sobre  .ping  .perfil  .canal  .dado  .moeda  .8ball  .ranking  .beijar  .abraçar  .socar  .style-menu  .jutsu  .sharingan  .ship  .casal  .daily
+
+🏠 𝑲. 𝑨𝑳𝑼𝑮𝑼𝑬𝑹 𝑷𝑶𝑹 𝑮𝑹𝑼𝑷𝑶 — 10
+.settabela  .setpagamento  .setmegas  .setcontas  .setcarteira  .setcompra  .setloja  .vertabela  .limpartabela  .verloja
+
+📱 𝑳. 𝑪𝑶𝑵𝑬𝑿Ã𝑶 & 𝑷𝑨𝑹𝑬𝑨𝑴𝑬𝑵𝑻𝑶 — 9
+.qr  .pairing  .pair  .code  .conectar  .desconectar  .status  .sessoes  .qrcode
+
+━━━━━━━━━━━━━━━━━━━━━━
+👑 𝑺𝑨𝑺𝑼𝑲𝑬 𝑽31.3
+⚡ 𝑪𝒐𝒓𝒆 𝑺𝑨𝑺𝑼𝑲𝑬
+👁️ 𝑨𝑰 𝑺𝒚𝒔𝒕𝒆𝒎
+⚡ 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 100%
